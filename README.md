@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/roje-evangelista">
+  <a href="https://www.linkedin.com/in/roje-alasdair-evangelista-00630b291/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
 <h1 align="center">hey there, I'm Roje Alasdair 👋</h1>
