@@ -9,21 +9,21 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-<h1 align="center">hey there, I'm Roje 👋</h1>
+<h1 align="center">hey there, I'm Roje Alasdair 👋</h1>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 
-- 🚀 **Career Goal**: I am a student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
-- 📚 **Learning**: Advanced Cisco networking and defensive security protocols.
-- 🐧 **Linux Enthusiast**: I have a deep love for **Linux**—it’s my go-to environment for networking, security, and everyday development.
+-  **Career Goal**: I am a student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
+-  **Learning**: Advanced Cisco networking and defensive security protocols.
+-  **Linux Enthusiast**: I have a deep love for **Linux**—it’s my go-to environment for networking, security, and everyday development.
 
 <h3 align="left">🏗️ Active Projects</h3>
 
-- 🎧 **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
-- 📋 **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
-- 🏠 **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
+-  **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
+-  **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
+-  **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
 
 <h3 align="left">🛡️ Cybersecurity Toolkit (Linux-based)</h3>
 
@@ -55,7 +55,7 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="cisco logo" />
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlasdairDev&show_icons=true&theme=dark" height="180" alt=""  />
