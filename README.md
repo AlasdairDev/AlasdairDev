@@ -11,7 +11,7 @@
 
 <h1 align="center">hey there, I'm Roje Alasdair 👋</h1>
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 
@@ -19,7 +19,7 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 -  **Learning**: Advanced Cisco networking and defensive security protocols.
 -  **Linux Enthusiast**: I have a deep love for **Linux**—it’s my go-to environment for networking, security, and everyday development.
 
-<h3 align="left">🏗️ Active Projects</h3>
+<h3 align="left">Active Projects</h3>
 
 -  **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
 -  **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
