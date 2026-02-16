@@ -15,10 +15,9 @@
 
 I'm a **BSIT Student** at PUP and the founder of **777heaven Records**. I build tools that bridge technical complexity with human usability.
 
-- 🚀 **Career Goal:** A student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
+- 🚀 **Career Goal:** I am a student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
 - 🔭 **Current Focus:** Developing the *Carmona Online Permit Portal* and mastering network topologies.
 - 📚 **Learning:** Advanced Cisco networking and defensive security protocols.
-- 🧠 **The Human Side (HCI/UX):** I believe tech should be secure and efficient, but never at the expense of the user. I focus on creating interfaces and systems that are intuitive, accessible, and human-friendly.
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -33,7 +32,7 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**. I build 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" height="40" alt="cisco logo" />
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="cisco logo" />
 </div>
 
 <h3 align="left">🔥 My Stats :</h3>
