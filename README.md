@@ -21,6 +21,8 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**. I build 
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
+<h3 align="left">🛠 Languages and Tools</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -30,7 +32,7 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**. I build 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="cisco logo" />
 </div>
