@@ -13,7 +13,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-I'm a **BSIT Student** at PUP and the founder of **777heaven Records**. I build tools that bridge technical complexity with human usability.
+I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 
 - 🚀 **Career Goal**: I am a student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
 - 📚 **Learning**: Advanced Cisco networking and defensive security protocols.
