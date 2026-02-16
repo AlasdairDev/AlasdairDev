@@ -58,6 +58,6 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlasdairDev&show_icons=true&theme=dark" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlasdairDev&show_icons=true&theme=dark" height="180" alt=""  />
   <img src="https://streak-stats.demolab.com?user=AlasdairDev&theme=dark&hide_border=false" height="180" alt="streak graph"  />
 </div>
