@@ -18,11 +18,12 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 -  **Learning**: Advanced Cisco networking and defensive security protocols.
 -  **Linux Enthusiast**: I have a deep love for **Linux**—it’s my go-to environment for networking, security, and everyday development.
 
-<h3 align="left">Active Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
--  **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
--  **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
--  **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
+- **[WUBlock](https://github.com/YourUsername/WUBlock)**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
+- **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
+- **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
+- **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
 
 <h3 align="left">🛡️ Cybersecurity Toolkit (Linux-based)</h3>
 
