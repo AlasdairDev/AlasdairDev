@@ -20,7 +20,7 @@ I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
 
 <h3 align="left">Featured Projects</h3>
 
-- **[WUBlock](https://github.com/YourUsername/WUBlock)**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
+- **[WUBlock]([https://github.com/YourUsername/WUBlock](https://github.com/AlasdairDev/WUBlock))**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
 - **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
 - **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
 - **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
