@@ -12,19 +12,20 @@
 
 <h3 align="left">About Me</h3>
 
-I'm a **BSIT Student** at PUP and the founder of **777heaven Records**.
+I'm a **BSIT Student** and the founder of **777heaven Records**. I specialize in bridging the gap between music distribution and secure IT infrastructure.
 
--  **Career Goal**: I am a student passionate about becoming a **Network Engineer** and diving deep into **Cybersecurity**.
--  **Learning**: Advanced Cisco networking and defensive security protocols.
--  **Linux Enthusiast**: I have a deep love for **Linux**—it’s my go-to environment for networking, security, and everyday development.
+- 🛡️ **Cybersecurity**: Focused on Zero-Trust architecture, digital forensics, and defensive security protocols.
+- 🌐 **Network Engineering**: Passionate about Cisco networking and optimizing high-performance dormitory network environments.
+- 🐧 **Linux Enthusiast**: My go-to environment for networking, security, and everyday development (Running **Aurora DX**).
 
 <h3 align="left">Featured Projects</h3>
 
+- **[777-HashHarden](https://github.com/AlasdairDev/777-HashHarden)**: A Python-based Zero-Trust security gateway. It performs Magic Byte verification and SHA-256 integrity hashing to sanitize music assets (MP3/WAV) before distribution.
 - **[WUBlock](https://github.com/AlasdairDev/WUBlock)**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
-- **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: A dedicated platform showcasing the label's roster, EPKs, and brand identity.
-- **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit pitch documents.
-- **[DormBound](https://github.com/AlasdairDev/DormBound)**: A project focused on optimizing network performance in dormitory environments.
-  
+- **[DormBound](https://github.com/AlasdairDev/DormBound)**: Network optimization project focused on stabilizing and improving performance in high-density dormitory environments.
+- **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit secure pitch documents.
+- **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: The flagship platform for the label's roster, EPKs, and brand identity.
+
 <h3 align="left">🛡️ Cybersecurity Toolkit (Linux-based)</h3>
 
 <div align="left">
