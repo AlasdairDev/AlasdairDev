@@ -20,6 +20,8 @@ I'm a **BSIT Student** and the founder of **777heaven Records**. I specialize in
 
 <h3 align="left">Featured Projects</h3>
 
+- **[Alarma](https://github.com/AlasdairDev/alarma-app)**: My Capstone project—a commuter safety mobile application featuring adaptive alarms and emergency SOS tools.
+- **[Whxrl](https://github.com/AlasdairDev/whxrl)**: [Brief description of what Whxrl is and what it does].
 - **[777-HashHarden](https://github.com/AlasdairDev/777-HashHarden)**: A Python-based Zero-Trust security gateway. It performs Magic Byte verification and SHA-256 integrity hashing to sanitize music assets (MP3/WAV) before distribution.
 - **[WUBlock](https://github.com/AlasdairDev/WUBlock)**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
 - **[DormBound](https://github.com/AlasdairDev/DormBound)**: Network optimization project focused on stabilizing and improving performance in high-density dormitory environments.
