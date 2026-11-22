@@ -8,27 +8,27 @@
   </a>
 </div>
 
-<h1 align="center">hey there, I'm Roje Alasdair 👋</h1>
+<h1 align="center">Hi, I'm Roje Alasdair</h1>
 
 <h3 align="left">About Me</h3>
 
-I'm a **BSIT Student** and the founder of **777heaven Records**. I specialize in bridging the gap between music distribution and secure IT infrastructure.
+I study BSIT and run 777heaven Records. Most of my work is security, networking, and the label's web projects.
 
-- 🛡️ **Cybersecurity**: Focused on Zero-Trust architecture, digital forensics, and defensive security protocols.
-- 🌐 **Network Engineering**: Passionate about Cisco networking and optimizing high-performance dormitory network environments.
-- 🐧 **Linux Enthusiast**: My go-to environment for networking, security, and everyday development (Running **Aurora DX**).
+- **Security**: I test web apps and Android builds, and I am learning network pentesting.
+- **Networking**: I build Cisco labs and fixed the network in my dorm (DormBound).
+- **Linux**: I use Aurora DX (Fedora) for development and security work.
 
 <h3 align="left">Featured Projects</h3>
 
-- **[Alarma](https://github.com/AlasdairDev/alarma-app)**: My Capstone project—a commuter safety mobile application featuring adaptive alarms and emergency SOS tools.
-- **[Whxrl](https://github.com/AlasdairDev/whxrl)**: A pocket-sized, network-wide DNS sinkhole built for the M5StickS3. It acts as a hardware-level ad and tracker blocker for all connected Wi-Fi devices with zero client-side installation.
-- **[777-HashHarden](https://github.com/AlasdairDev/777-HashHarden)**: A Python-based Zero-Trust security gateway. It performs Magic Byte verification and SHA-256 integrity hashing to sanitize music assets (MP3/WAV) before distribution.
-- **[WUBlock](https://github.com/AlasdairDev/WUBlock)**: A robust Windows Update control utility designed to hard-block forced updates through multi-layered system modification.
-- **[DormBound](https://github.com/AlasdairDev/DormBound)**: Network optimization project focused on stabilizing and improving performance in high-density dormitory environments.
-- **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A streamlined submission system for artist and band rosters to submit secure pitch documents.
-- **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: The flagship platform for the label's roster, EPKs, and brand identity.
+- **[Alarma](https://github.com/AlasdairDev/alarma-app)**: My capstone project: an Android app with adaptive alarms and an emergency SOS for commuters.
+- **[Whxrl](https://github.com/AlasdairDev/whxrl)**: A DNS sinkhole for the M5StickS3 that blocks ads and trackers for every device on the Wi-Fi, with nothing to install.
+- **[777-HashHarden](https://github.com/AlasdairDev/777-HashHarden)**: A Python script that checks music files, strips metadata, and records a SHA-256 hash before distribution.
+- **[WUBlock](https://github.com/AlasdairDev/WUBlock)**: A batch script that disables Windows Update and reverses the change when you want updates back.
+- **[DormBound](https://github.com/AlasdairDev/DormBound)**: Network work for a high-density dorm network.
+- **[777hvnrx-pitchingform](https://github.com/AlasdairDev/777hvnrx-pitchingform)**: A form for artists and bands to send pitch documents.
+- **[777heaven-records](https://github.com/AlasdairDev/777heaven-records)**: The label site: roster, EPKs, and brand.
 
-<h3 align="left">🛡️ Cybersecurity Toolkit (Linux-based)</h3>
+<h3 align="left">Security tools</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" height="35" alt="nmap logo" />
@@ -40,7 +40,7 @@ I'm a **BSIT Student** and the founder of **777heaven Records**. I specialize in
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" height="35" alt="burpsuite logo" />
 </div>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">Languages and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -58,7 +58,7 @@ I'm a **BSIT Student** and the founder of **777heaven Records**. I specialize in
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" height="40" alt="cisco logo" />
 </div>
 
-<h3 align="left">My Stats :</h3>
+<h3 align="left">GitHub stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlasdairDev&show_icons=true&theme=dark" height="180" alt=""  />
